@@ -13,7 +13,7 @@ const Home = () => {
             <button className='z-0 mt-8 md:mt-10'>
               <a 
                 className='bg-indigo-500 py-3 px-4 rounded-lg text-slate-50 text-[15px] transition duration-300 hover:bg-indigo-600'
-                href='./public/summary.pdf' target='_blank' download>
+                href='https://docs.google.com/document/d/1KCl3xN6KsnxpfYqKrftkgdqv-kYjB4AynPcMV4-WQII/edit' target='_blank'>
                 Downoload CV
               </a>
             </button>
